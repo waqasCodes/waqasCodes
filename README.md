@@ -1,5 +1,4 @@
-
-Hi 👋, I'm Waqas
+## Hi 👋, I'm Waqas
 A Passionate Blockchain backend Developer From Pakistan
 
 
